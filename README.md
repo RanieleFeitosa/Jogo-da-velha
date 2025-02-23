@@ -1,4 +1,5 @@
 # Jogo da Velha em Java
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ## 📖 Sobre
 Este projeto é uma implementação simples do clássico **Jogo da Velha** em Java. Ele foi desenvolvido como um exercício de lógica de programação, Programação Orientada a Objetos (POO), tratamento de exceções e boas práticas na linguagem Java.
